@@ -25,9 +25,9 @@ Evolve IO | Variant Finder is a web application designed to help users find prod
    cd evolve-io-variant-finder
    ```
 
-2. **Open the `index.html` file in your web browser:**
+2. **Open the `Variant Finder.html` file in your web browser:**
    ```sh
-   open index.html
+   open Variant Finder.html
    ```
 
 ## Usage
@@ -59,8 +59,8 @@ Evolve IO | Variant Finder is a web application designed to help users find prod
 
 ## Customization
 
-- **Styling**: To customize the styling of the application, edit the CSS section within the `<style>` tags in the `index.html` file.
-- **Functionality**: To modify or extend the functionality, edit the JavaScript section within the `<script>` tags in the `index.html` file.
+- **Styling**: To customize the styling of the application, edit the CSS section within the `<style>` tags in the `Variant Finder.html` file.
+- **Functionality**: To modify or extend the functionality, edit the JavaScript section within the `<script>` tags in the `Variant Finder.html` file.
 
 ## Troubleshooting
 
